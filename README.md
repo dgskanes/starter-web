@@ -6,6 +6,10 @@ introd
 
 ## Purpose
 
+Asdsds
+
 ## Deployment
+deployment 
 
 ## How To Contribute
+this is a est
